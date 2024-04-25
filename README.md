@@ -8,4 +8,4 @@
 • I experimented with various machine learning algorithms, such as logistic regression, random forests, and Decision Trees, to identify the most effective approach for 
    fraud detection.
 
-• Evaluated model performance using metrics like accuracy, precision, recall, and F1-score ensuring robustness and effectiveness in detecting fraudulent activities.
+• Evaluated model performance using metrics like accuracy ensuring robustness and effectiveness in detecting fraudulent activities.
