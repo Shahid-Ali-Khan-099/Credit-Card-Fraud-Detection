@@ -8,4 +8,4 @@ Employed feature engineering techniques to extract relevant information and enha
 I experimented with various machine learning algorithms, such as logistic regression, random forests, and Decision Trees, to identify 
 the most effective approach for fraud detection.
 
-Evaluated model performance using metrics like accuracy ensuring robustness and effectiveness in detecting fraudulent activities.
+Evaluated model accuracy to ensuring robustness and effectiveness in detecting fraudulent activities.
